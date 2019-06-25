@@ -1,0 +1,27 @@
+{
+  "name": "discord-monopoly",
+  "version": "1.0.1",
+  "description": "A simple monopoly bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MK360",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk360/discord-monopoly.git"
+  },
+  "keywords": [
+    "discord",
+    "monopoly"
+  ],
+  "bugs": {
+    "url": "https://github.com/mk360/discord-monopoly/issues"
+  },
+  "homepage": "https://github.com/mk360/discord-monopoly#readme"
+}
